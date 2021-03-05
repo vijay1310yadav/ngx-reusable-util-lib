@@ -1,0 +1,18 @@
+{
+    "name": "@vijay1310yadav/ngx-reusable-util-lib",
+    "version": "0.0.1",
+    "peerDependencies": {
+        "@angular/common": "^10.0.2",
+        "@angular/core": "^10.0.2"
+    },
+    "dependencies": {
+        "tslib": "^2.0.0"
+    },
+    "publishConfig": {
+        "registry": "https://npm.pkg.github.com/"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/vijay1310yadav/ngx-reusable-util-lib.git"
+    }
+}
